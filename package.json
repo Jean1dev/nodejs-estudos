@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean1dev/Node.js-aplication.git"
+  },
+  "author": "Jean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean1dev/Node.js-aplication/issues"
+  },
+  "homepage": "https://github.com/Jean1dev/Node.js-aplication#readme"
+}
