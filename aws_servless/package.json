@@ -1,0 +1,16 @@
+{
+  "name": "aws_servless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "predeploy": "rm -rf node_modules && npm install ",
+    "deploy": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jean",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.21.3"
+  }
+}
