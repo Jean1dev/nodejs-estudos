@@ -4,3 +4,4 @@ node_modules/
 .prg
 nodeJS_fxPro/node_modules/
 package-lock.json
+.DS_Store
