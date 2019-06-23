@@ -1,13 +1,4 @@
 module.exports = app => {
-    let HomeController = {
-        index: (req, res) => {
-            res.render(`home/index`)
-        }
-    }
-    return HomeController
-}
-
-module.exports = app => {
     let Usuario = app.models.usuario
 
     let HomeController = {
