@@ -30,7 +30,7 @@
     ]
   },
   "dependencies": {
-    "bcrypt": "1.0.3",
+    "bcrypt": "5.0.0",
     "jsonwebtoken": "8.1.1",
     "mongoose": "4.13.9",
     "restify": "6.3.4",
