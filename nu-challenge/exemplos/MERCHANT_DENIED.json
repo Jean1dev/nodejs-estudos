@@ -1,0 +1,20 @@
+[
+  {
+    "account": {
+      "active-card": true,
+      "available-limit": 100
+    }
+  },
+  {
+    "deny-list": [
+      "Burger King"
+    ]
+  },
+  {
+    "transaction": {
+      "merchant": "Burger King",
+      "amount": 20,
+      "time": "2019-02-13T10:00:00.000Z"
+    }
+  }
+]

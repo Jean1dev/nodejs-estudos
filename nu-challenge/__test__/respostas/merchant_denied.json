@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "merchant-denied"
+  ],
+  "account": {
+    "deny-list": [
+      "Burger King"
+    ],
+    "available-limit": 100,
+    "active-card": true
+  }
+}

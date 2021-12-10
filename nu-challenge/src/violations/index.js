@@ -1,0 +1,7 @@
+exports.ACCOUNT_ALREADY_CREATED = 'account-already-initialized'
+exports.ACCOUNT_NOT_INITIALIZED = 'account-not-initialized'
+exports.CARD_NOT_ACTIVE = 'card-not-active'
+exports.INSSUFICIENT_LIMIT = 'insufficient-limit'
+exports.HIGH_FREQUENCY_SMALL_INTERVAL = 'high-frequency-small-interval'
+exports.DOUBLE_TRANSACTION = 'doubled-transaction'
+exports.MERCHANT_DENIED = 'merchant-denied'
